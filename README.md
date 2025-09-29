@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pasalapudi
 
 ## 🚀 About Me
-- 🔧 **Azure DevOps Administrator** with 15 years technical experience
+- 🔧 **Azure DevOps Administrator** & **DotNet Developer** with 15 years technical experience
 - 🎯 **Transitioning to Data Science** after completing AI/ML program
 - ☁️ Managing 42 Azure subscriptions and cloud infrastructure
 - 🌱 Currently building production-ready data science portfolio
