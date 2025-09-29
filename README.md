@@ -24,4 +24,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/rajasekhar-psp/))
